@@ -1,11 +1,5 @@
 """
 General Numerical Solver for the 1D Time-Dependent Schrodinger's equation.
-
-author: Jake Vanderplas
-email: vanderplas@astro.washington.edu
-website: http://jakevdp.github.com
-license: BSD
-Please feel free to use and modify this, but keep the above information. Thanks!
 """
 
 import numpy as np
